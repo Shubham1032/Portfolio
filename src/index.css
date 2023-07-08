@@ -161,7 +161,7 @@ a{
   width: 25px;
 }
 .mouse::before{
-  -webkit-animation: wheel 1.3s infinite ease;
+  animation: wheel 1.3s infinite ease;
   background-color: #333;
   border-radius: 50%;
   content: "";
