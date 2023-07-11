@@ -5,7 +5,11 @@ import Projects from '../Components/Projects'
 
 const Navbar_first = () => {
 const homeScroll = () => {
+  window.scrollTo({
+    top: 0,
   
+    behavior: "smooth",
+  });
 }
 const aboutScroll = () => {
 // window.scrollTo(<AboutMe/>)
