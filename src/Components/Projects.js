@@ -17,7 +17,8 @@ const Projects = () => {
         <div className='projects-info'>
           <h3>iShop</h3>
           <p>Ishop is an E-commers app where users can create their own profile and add item to cart or buy items online by doing payments online via any UPI apps.</p>
-          <button>Open Link</button>
+          {/* <button>Open Link</button> */}
+          <a href='https://ecommerce-ui-bons.onrender.com/'>Open Link</a>
         </div>
       </div>
       {/* ishop */}
@@ -29,7 +30,9 @@ const Projects = () => {
         <div className='projects-info'>
           <h3>Shiren</h3>
           <p>Shiren is a Blog post app where admin can post the latest news related to Bollywood, Hollywood, Technology, Fitness & Food.</p>
-          <button>Open Link</button>
+         <a href='https://bloog-project.onrender.com/'>Open Link
+          {/* <button>Open Link</button> */}
+          </a>
         </div>
       </div>
       {/* ishop */}
@@ -40,7 +43,8 @@ const Projects = () => {
           <div className='projects-info'>
           <h3>ToDo List</h3>
           <p>Todo List is a app build in JavaScript where user can add all task he needs to do. Under the task heading he can add multiple sub task in list. Upon complition of any task he can mark that perticular task as completed. once the task is completed a line through will appear on the text.</p>
-          <button>Open Link</button>
+         <a href='https://shubham1032.github.io/JS_Project2/'>Open Link</a>
+          {/* <button>Open Link</button> */}
         </div>
       </div>
       {/* ishop */}
@@ -51,7 +55,8 @@ const Projects = () => {
          <div className='projects-info'>
           <h3>Coding Ninja</h3>
           <p>Ishop is an E-commers app where users can create their own profile and add item to cart or buy items online by doing payments online via any UPI apps.</p>
-          <button>Open Link</button>
+          {/* <button>Open Link</button> */}
+          <a href='https://amazing-dango-cb8de1.netlify.app/'>Open Link</a>
         </div>
       </div>
      </div>
